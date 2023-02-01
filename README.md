@@ -5,4 +5,5 @@ it for learning how to collaboration.
   - add a collaborator
   - add more files 
   - add an reviwer
+  - push directly using `main`
 - 31-01-2023, Tue: Add README online
