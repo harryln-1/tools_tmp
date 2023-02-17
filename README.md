@@ -5,6 +5,7 @@ it for learning how to collaboration.
   - add `python.vim`
   - create branch `wl-sub` under `wl`
   - add `python_match.vim`
+  - it seems `git push` under `wl` does not work. Try `git push origin wl`
 - 01-02-2023, Wed:
   - add a collaborator
   - add more files 
