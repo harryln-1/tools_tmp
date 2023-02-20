@@ -3,6 +3,7 @@ it for learning how to collaboration.
 
 - 20-02-2023, Mon: 
   - create `wl-dev` and add `XML.vim`
+  - push it but not request a pull
 - 17-02-2023, Fri:
   - add `python.vim`
   - create branch `wl-sub` under `wl`
